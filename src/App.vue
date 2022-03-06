@@ -13,7 +13,7 @@
     <router-view />
     <div class="footer">
       <p>Created 24 February 2022</p>
-      <a href="https://github.com/BYUCS260/grocery-store-breed34" target="_blank">Git Repository</a>
+      <a href="https://github.com/breed34/creative-project-3" target="_blank">Git Repository</a>
     </div>
   </div>
 </template>
